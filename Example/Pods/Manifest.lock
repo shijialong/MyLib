@@ -1,5 +1,5 @@
 PODS:
-  - MyLib (0.1.0)
+  - MyLib (0.0.2)
 
 DEPENDENCIES:
   - MyLib (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  MyLib: ee880eea940bd0a736c21e8d380731f4f76b6963
+  MyLib: c21446a9d3e7bb74e1e2f133f91e77e9901efa96
 
 PODFILE CHECKSUM: 804e1311ffdef53c764e274b2987f6ae0e54b042
 
